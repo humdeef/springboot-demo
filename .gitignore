@@ -1,0 +1,62 @@
+# Compiled class file
+*.class
+# Log file
+*.log
+*.idea
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+.idea/*
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+/target
+target
+target/
+/test
+*.uiDedigner.xml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.idea/.name
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+basecore-alipay/basecore-alipay.iml
+basecore-alipay/src/main/resources/
+basecore-alipay/src/test/
+basecore-baidupush/basecore-baidupush.iml
+basecore-baidupush/src/main/resources/
+basecore-baidupush/src/test/
+basecore-rongyun/basecore-rongyun.iml
+basecore-rongyun/src/main/resources/
+basecore-rongyun/src/test/
+basecore-wxpay/basecore-wxpay.iml
+basecore-wxpay/src/main/resources/
+basecore-wxpay/src/test/
+gt1.iml
+jt-api/jt-api.iml
+jt-api/src/main/java/com/jt/app/util/
+jt-api/src/main/resources/lib/
+jt-api/src/test/java/com/Test.java
+jt-api/src/test/java/com/com/
+jt-api/src/test/resources/
+jt-core/jt-core.iml
+jt-core/src/main/resources/
+jt-login/jt-login.iml
+jt-login/src/main/resources/
+jt-login/src/test/
+jt-manager/jt-manager.iml
+jt-manager/log/
+jt-manager/src/main/webapp/file/
+jt-manager/src/test/
+jt.iml
+log/
+jt-parent.iml
