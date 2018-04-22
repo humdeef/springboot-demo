@@ -60,3 +60,4 @@ jt-manager/src/test/
 jt.iml
 log/
 jt-parent.iml
+*.iml
